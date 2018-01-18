@@ -1,0 +1,13 @@
+*{box-sizing: border-box;
+text-align: center;}
+ 	
+ 	body{ width:960px
+ 	;
+ 	font-family: 'Georgia', Times, 
+ 	Times New Roman, serif;  }
+
+ 	.class{ font-size: 30px;
+ 	background: #ffffff;
+ 	color:white;
+ 	padding:20px;
+ 	margin:20px; }
